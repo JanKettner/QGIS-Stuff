@@ -1,0 +1,33 @@
+UTM-LAYOUTVORLAGE FÜR QGIS
+
+Datei: UTM_Universell_A3_Quer_1km.qpt
+
+Eigenschaften
+- DIN A3, Querformat, 300 dpi
+- Standardmaßstab 1:25.000
+- 1.000-m-UTM-Gitternetz mit Koordinatenbeschriftung
+- Nordpfeil, Maßstabsleiste, Kartenrahmen und dynamische Projektangaben
+- übernimmt das Koordinatensystem und die sichtbaren Ebenen des QGIS-Projekts
+
+Vorbereitung
+1. Das QGIS-Projekt auf die benötigte UTM-Zone einstellen.
+   Beispiel Sizilien: EPSG:32633 (WGS 84 / UTM Zone 33N).
+2. Den gewünschten Kartenausschnitt im Hauptfenster einstellen.
+
+Vorlage laden
+1. Projekt > Layoutverwaltung öffnen.
+2. Neu aus Vorlage > Spezifisch wählen.
+3. UTM_Universell_A3_Quer_1km.qpt auswählen.
+4. Das Kartenelement "Map" markieren.
+5. Unter Elementeigenschaften > Ausdehnung auf "Auf Kartenausschnitt setzen" klicken.
+6. Bei Bedarf den gewünschten Maßstab einstellen.
+
+Hinweise
+- Das 1-km-Gitter setzt ein projiziertes Koordinatensystem mit Metern als Einheit voraus.
+- Für eine andere Gitterweite im Kartenelement unter Gitter das Gitter "1km" bearbeiten.
+- Der Maßstab kann im Kartenelement geändert werden; die Maßstabsangabe aktualisiert sich automatisch.
+- Die Maßstabsleiste zeigt vier feste Abschnitte zu je 500 m, insgesamt 2 km.
+
+Grundstruktur abgeleitet aus "Standard A3 Landscape" von Klas Karlsson,
+bereitgestellt über QGIS Layout Hub. Anpassungen: universelle deutsche UTM-Ausgabe,
+1:25.000, Nordpfeil und dynamische Projektangaben.

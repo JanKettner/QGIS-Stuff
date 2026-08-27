@@ -1,0 +1,13 @@
+[general]
+name=Offline Map Style
+description=Importiert Geofabrik OSM-PBF-Dateien und erstellt eine vollständig offline nutzbare, helle Straßenkarte.
+version=1.0.9
+qgisMinimumVersion=3.34
+author=Jan-Eric Kettner / OpenAI
+email=
+about=Universeller Offline-Kartenimport für Geofabrik-Dateien. Erzeugt ein GeoPackage, lädt thematische Ebenen und wendet einen hellen, Google-Maps-inspirierten Stil an. Keine Online-Kacheln und keine Google-Kartendaten.
+category=Vector
+icon=icon.svg
+experimental=False
+deprecated=False
+tags=offline,osm,geofabrik,pbf,style,map
