@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<title>Lichtmast</title>
+<g stroke-linecap="square" stroke-linejoin="miter"><rect x="6" y="14" width="88" height="72" rx="1" fill="white" stroke="#111111" stroke-width="3"/><path d="M50 28 V75 M38 75 H62" stroke="#111" stroke-width="3"/><rect x="28" y="24" width="16" height="12" fill="none" stroke="#111" stroke-width="3"/><rect x="56" y="24" width="16" height="12" fill="none" stroke="#111" stroke-width="3"/><path d="M36 36 L50 48 L64 36" fill="none" stroke="#003399" stroke-width="3"/></g></svg>

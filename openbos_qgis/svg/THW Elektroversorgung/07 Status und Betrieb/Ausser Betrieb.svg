@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<rect x="7" y="15" width="114" height="84" rx="6" fill="#f5dddd" stroke="#111111" stroke-width="5"/>
+<path d="M70 22 L49 56 H64 L56 78 L82 45 H67 Z" fill="#111"/><path d="M25 25 l78 52 M103 25 l-78 52" stroke="#111" stroke-width="5"/>
+<text x="64" y="87" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="bold" fill="#111111">A.B.</text>
+<text x="64" y="116" text-anchor="middle" font-family="Arial,DejaVu Sans,sans-serif" font-size="13" font-weight="bold" fill="#111111">außer Betrieb</text>
+</svg>

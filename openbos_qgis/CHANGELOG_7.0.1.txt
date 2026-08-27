@@ -1,0 +1,6 @@
+OpenBOS 7.0.1
+
+- Qt-6-Kompatibilität für QGIS 4 ergänzt.
+- Qt.UserRole durch kompatible ItemDataRole-Konstante ersetzt.
+- Qt.RightDockWidgetArea durch kompatible DockWidgetArea-Konstante ersetzt.
+- Weiterhin kompatibel mit QGIS 3.28+ / Qt 5.

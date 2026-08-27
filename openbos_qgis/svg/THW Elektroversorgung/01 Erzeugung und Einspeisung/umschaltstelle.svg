@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<title>Umschaltstelle Netz/NEA</title>
+<g stroke-linecap="square" stroke-linejoin="miter"><rect x="6" y="14" width="88" height="72" rx="1" fill="white" stroke="#111111" stroke-width="3"/><circle cx="31" cy="34" r="4" fill="#111"/><circle cx="69" cy="34" r="4" fill="#111"/><circle cx="50" cy="68" r="4" fill="#111"/><path d="M50 64 L34 39 M50 64 L66 39" stroke="#111" stroke-width="3" fill="none"/><path d="M24 25 H38 M62 25 H76" stroke="#003399" stroke-width="5"/></g></svg>

@@ -1,0 +1,7 @@
+OpenBOS 7.0.0
+- Plugin vollständig modularisiert.
+- Symbolkatalog, Dock-Oberfläche, Layerverwaltung und Kartenwerkzeug getrennt.
+- Fehlende Methoden durch feste Schnittstellen vermieden.
+- Elektro-Zuordnung ausschließlich anhand des Stammordners.
+- Metadaten für QGIS 3.28 bis 4.99 erweitert.
+- Fehler beim Laden werden mit vollständigem Traceback angezeigt.

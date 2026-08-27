@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+<title>Ballonleuchte</title>
+<g stroke-linecap="square" stroke-linejoin="miter"><rect x="6" y="14" width="88" height="72" rx="1" fill="white" stroke="#111111" stroke-width="3"/><circle cx="50" cy="38" r="20" fill="none" stroke="#111" stroke-width="3"/><path d="M50 58 V76 M38 76 H62" stroke="#111" stroke-width="3"/><path d="M40 38 H60 M50 28 V48" stroke="#003399" stroke-width="3"/></g></svg>

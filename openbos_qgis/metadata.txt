@@ -1,0 +1,16 @@
+[general]
+name=OpenBOS Taktische Zeichen
+description=Taktische BOS-Zeichen mit Fachmodul THW Elektroversorgung, getrennten Symbolbrowsern und direkter Kartenplatzierung
+version=7.0.1
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+author=OpenBOS-Integration; Symbolgrundlage Jonas Koeritz und Mitwirkende
+email=
+about=Neu strukturierte OpenBOS-Version mit getrennten Modulen für Symbolkatalog, Benutzeroberfläche, Layerverwaltung und Platzierungswerkzeug. Die Elektro-Zuordnung erfolgt ausschließlich über den Stammordner THW Elektroversorgung.
+category=Symbology
+icon=icon.svg
+experimental=False
+deprecated=False
+homepage=
+tracker=
+repository=
