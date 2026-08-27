@@ -1,0 +1,15 @@
+[general]
+name=Offline Map Generator
+description=Lädt passende Geofabrik-OSM-Extrakte automatisch herunter und erzeugt zugeschnittene Offline-GeoPackages und QGIS-Projekte.
+version=0.2.0
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+author=OpenAI / Jan-Eric Kettner
+email=
+about=Separater Offline-Karten-Generator für QGIS 3 und QGIS 4. Geofabrik-Katalog, automatischer Regionalvorschlag, PBF-Download, osmium-Zuschnitt, GDAL-Konvertierung und QGIS-Projekterzeugung.
+category=Web
+icon=icon.svg
+experimental=True
+deprecated=False
+tracker=
+repository=
